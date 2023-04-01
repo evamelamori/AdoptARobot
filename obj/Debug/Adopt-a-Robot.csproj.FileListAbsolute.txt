@@ -1,0 +1,12 @@
+C:\Users\jb\Source\Repos\Adopt-a-Robot\Adopt-a-Robot\bin\Debug\Adopt-a-Robot.exe.config
+C:\Users\jb\Source\Repos\Adopt-a-Robot\Adopt-a-Robot\bin\Debug\Adopt-a-Robot.exe
+C:\Users\jb\Source\Repos\Adopt-a-Robot\Adopt-a-Robot\bin\Debug\Adopt-a-Robot.pdb
+C:\Users\jb\Source\Repos\Adopt-a-Robot\Adopt-a-Robot\obj\Debug\Adopt-a-Robot.csprojAssemblyReference.cache
+C:\Users\jb\Source\Repos\Adopt-a-Robot\Adopt-a-Robot\obj\Debug\Adopt-a-Robot.csproj.CoreCompileInputs.cache
+C:\Users\jb\Source\Repos\Adopt-a-Robot\Adopt-a-Robot\obj\Debug\Adopt-a-Robot.exe
+C:\Users\jb\Source\Repos\Adopt-a-Robot\Adopt-a-Robot\obj\Debug\Adopt-a-Robot.pdb
+C:\Users\evakk\Downloads\Adopt-a-Robot (2)\Adopt-a-Robot\Adopt-a-Robot\obj\Debug\Adopt-a-Robot.csproj.AssemblyReference.cache
+C:\Users\evakk\Downloads\Adopt-a-Robot (2)\Adopt-a-Robot\Adopt-a-Robot\obj\Debug\Adopt-a-Robot.csproj.CoreCompileInputs.cache
+C:\Users\evakk\Downloads\Adopt-a-Robot (2)\Adopt-a-Robot\Adopt-a-Robot\obj\Debug\Adopt-a-Robot.exe
+C:\Users\evakk\Downloads\Adopt-a-Robot (2)\Adopt-a-Robot\Adopt-a-Robot\obj\Debug\Adopt-a-Robot.pdb
+C:\Users\evakk\Downloads\Adopt-a-Robot (2)\Adopt-a-Robot\Adopt-a-Robot\obj\Debug\Adopt-a-Robot.csproj.SuggestedBindingRedirects.cache
